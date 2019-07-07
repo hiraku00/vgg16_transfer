@@ -15,7 +15,7 @@
 # Implementation procedure
 ## 1. Image data collection
 - Image file is acquired from flickr to carry out image classification of 3 types (apple, tomato, strawberry)
-- How to get the image file by flickr was written in the previous article [here] (https://qiita.com/hiraku00/items/dbdaad45ea54a35e51a4)
+- How to get the image file by flickr was written in the previous article [here] (https://github.com/hiraku00/py_flickr)
 - Get 300 image files each
 - Specify “apple”, “tomato”, “strawberry” as search keyword
 - Unwanted data (image files unrelated to search keywords) downloaded from flickr are visually excluded
